@@ -43,7 +43,6 @@ h2 {
     background-image: url(/image/exp-bg.png);
     background-repeat: no-repeat;
     background-position: left;
-    margin-bottom: 150px;
 
 }
 .experience-item {
@@ -67,4 +66,8 @@ h2 {
 }
 footer p{
     text-align: center;
+}
+section{
+    height: 500px;
+    padding-bottom: 150px;
 }
